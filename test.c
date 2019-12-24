@@ -8,7 +8,7 @@ int main()
 
   z = x + y;
 
-  printf("Sum of the numbers = %d\n", z);
+  printf("Sum of %d and %d is = %d\n",x,y,z);
 
   return 0;
 }
